@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "heroku": "^7.51.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-particles-js": "^3.3.0",
